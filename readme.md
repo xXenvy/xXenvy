@@ -5,9 +5,8 @@
 
 - 🔭 I’m currently working on [SmiffyBot](https://google.com/)
 
-- 📫 Discord **Xenvy#2113**
-
 <h3 align="left">Connect with me:</h3>
+- 📫 Discord **Xenvy#2113**
 <p align="left">
 </p>
 
