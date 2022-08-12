@@ -4,9 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxenvy&label=Profile%20views&color=0e75b6&style=flat" alt="xxenvy" /> </p>
 
 - 🔭 I’m currently working on [SmiffyBot](https://google.com/)
-
-<h3 align="left">Connect with me:</h3>
-📫 Discord **Xenvy#2113**
+- 📫 Discord **Xenvy#2113**
+- 
 <p align="left">
 </p>
 
