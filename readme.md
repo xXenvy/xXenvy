@@ -11,4 +11,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxenvy&show_icons=true&locale=en&layout=compact" alt="xxenvy" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxenvy&" alt="xxenvy" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xxenvy&show_icons=true&locale=en" alt="xxenvy" /></p>
