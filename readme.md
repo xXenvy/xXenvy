@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xenvy</h1>
 <h3 align="center">I am a beginner python programmer. I am interested in discord bots and web development.</h3>
 
-- 🔭 I’m currently working on nothing lol
+- 🔭 I’m currently working on [SelfBotClient](https://github.com/xXenvy/SelfBotClient)
 - 📫 Discord `Xenvy#2113`
 <p align="left">
 </p>
