@@ -7,5 +7,5 @@
   
 <div align="center">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxenvy&show_icons=true&theme=transparent)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxenvy&show_icons=true&theme=dark)
 </div>
