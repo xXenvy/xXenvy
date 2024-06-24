@@ -7,7 +7,7 @@
 **I like to develop myself and working on interesting projects!**
 
 ### `📫` Contact
-- Discord: [`xxenvy_`](https://www.discord.com/users/964516745320742982)
+- **Discord:** [`xxenvy_`](https://www.discord.com/users/964516745320742982)
 
 ### `🔧` Tech stuff i used
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
