@@ -1,10 +1,8 @@
-# Hello 👋, I'm xXenvy
+# Hello 👋
+**Hi there! I'm xXenvy, also known as Pimpek.**
 
-**Hello there! I'm xXenvy, but you might know me by my nickname Pimpek.** 
-**I am an intermediate Python programmer, but have recently started to learn C++.**
-
-**I'm still learning so I'd appreciate a code reviews.**
-**I like to develop myself and working on interesting projects!**
+I'm a self-taught developer with a passion for working on interesting projects.
+I'm constantly learning and improving my skills, and I aspire to become a professional developer in the future!
 
 ### `📫` Contact
 - **Discord:** [`xxenvy_`](https://www.discord.com/users/964516745320742982)
@@ -14,6 +12,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
